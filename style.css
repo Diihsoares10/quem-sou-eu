@@ -1,0 +1,39 @@
+@charset "UTF-8"
+
+*{
+    font-family:Verdana, Tahoma, sans-serif;
+    /*heigth: 100%;*/
+}
+
+
+body{
+    background-image: url("wallpaperflare.com_wallpaper.jpg");
+    background-position: center;
+    background-size: auto;
+   
+}
+   
+main {
+    -webkit-text-stroke: 0.3px rgb(233, 13, 13);
+    font-family:di;
+    text-align: center;
+    color: #fafafa;
+}
+
+h2 {
+    -webkit-text-stroke: 0.3px rgb(233, 13, 13);
+    color: #fcfcfc;
+    text-align: center;
+
+}
+
+h1{
+    -webkit-text-stroke: 0.3px rgb(146, 23, 23);
+    font-family:di;
+    text-align: center;
+    color: #fafafa;
+}
+p{
+    text-align: justify;
+    text-align: center;
+}
